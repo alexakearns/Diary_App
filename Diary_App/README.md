@@ -36,7 +36,7 @@ I want to click on a title to see the full Diary Entry
 1. Connect to `psql`
 2. Create the database using the `psql` command `CREATE DATABASE diary_app;`
 3. Connect to the database using the `pqsl` command `\c bookmark_manager;`
-4. Run the query we have saved in the file `01_create_diary_entry_table.sql`
+4. Run the query we have saved in the file `01_create_diary_entries_table.sql`
 
 ## Domain Modelling
 
