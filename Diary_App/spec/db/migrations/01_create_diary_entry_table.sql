@@ -1,0 +1,1 @@
+CREATE TABLE diary_entry(id SERIAL PRIMARY KEY, url VARCHAR(60));
